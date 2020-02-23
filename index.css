@@ -1,0 +1,100 @@
+
+h1{
+    position: absolute;
+    font-family: 'Roboto';
+    left: 40%;
+    top: 80px;
+    font-weight: lighter;
+}
+
+body{
+    background-color: #06263F;
+}
+
+#loginPart{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px 10px 10px 10px;
+    left: 65%;
+    transform: translateX(-50%);
+    position: absolute;
+    top: 10%;
+}
+
+#animationPart{
+    position: relative;
+    width: 500px;
+    height: 400px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    left: 20%;
+    top: 115px;
+    border-radius: 0px 0px 0px 0px;
+}
+
+#gif{
+    width: 420px;
+    height: 400px;
+}
+
+
+
+#email, #password{
+    padding-left: 32px;
+    position: relative;
+    border-radius: 20px;
+    border: 1.9px solid black;
+    width: 380px;
+    height: 35px;
+    margin-left: 50px;
+    top: 150px;
+}
+
+#password{
+    margin-top: 18px;
+}
+
+#iconeEmail{
+    position: relative;
+    top: 148px;
+    right: 378px;
+}
+
+#iconeSenha{
+    position: relative;
+    top: 149px;
+    right: 378px;
+}
+
+#github{
+    position: absolute;
+    top: 500px;
+    color: white;
+    left: 500px;
+}
+
+#submit{
+    position: relative;
+    top: 200px;
+    left: 145px;
+    width: 200px;
+}
+
+form{
+    position: absolute;
+    top: 70px;
+}
+
+#arrow{
+    position: absolute;
+    color: white;
+    left: 20px;
+    top: 10px;
+}
+
+#conteudo{
+    position: relative;
+    top: 60px;
+}
